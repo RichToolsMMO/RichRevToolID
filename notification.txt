@@ -1,0 +1,7 @@
+WHAT'S NEW IN UPGRADE V 1.0.6:
+✴️ Split multiple video files one by one with hard sub separation
+✴️ Fix the error of reducing output video quality
+✴️ Fix translation errors using CHATGPT
+✴️ Retain the original sound when rendering
+✴️ Fix sound and content mismatch error
+✴️ Increase the speed of default GG voices
